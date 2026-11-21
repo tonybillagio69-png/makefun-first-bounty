@@ -22,6 +22,12 @@ Open a bounty that’s taking entries and check three things before you build.
 
 If the bounty needs a linked GitHub account, sign in with GitHub or open **Identity** on your existing make.fun account. Under **How we reach you**, choose **Link GitHub** and use the account that will own the repository. [Identity settings](https://make.fun/profile?tab=identity)
 
+Before you create the repository, check that the right account is active in both places.
+
+- Read the GitHub username listed in Make.fun’s **Identity** tab.
+- Ask your agent to show the GitHub username it is signed in as on your computer.
+- After creating the repo, check that the owner before the slash at the top of the GitHub page matches that username.
+
 ## 2. Ask your agent for one small test
 
 Start a fresh chat after the bounty opens, using an agent that saves its session. If the rules require a separate recorder, start it first. Paste your bounty URL into this prompt.
